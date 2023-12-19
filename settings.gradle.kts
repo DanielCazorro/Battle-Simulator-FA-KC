@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Battle-Simulator-FA-KC"
 include(":app")
- 

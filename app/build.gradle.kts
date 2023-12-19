@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.danielcazorro.battle_simulator_fa_kc"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.danielcazorro.battle_simulator_fa_kc"
